@@ -1,3 +1,8 @@
 # BattleTank
 An open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4.
 Game realized thanks to the Unreal Engine course on udemy https://www.udemy.com/course/unrealcourse/
+
+## Lecture List
+* BT01 Intro, Notes & Assets
+* BT02 Game Design Document (GDD)
+* BT03 Setting Up a GitHub "Repo"
